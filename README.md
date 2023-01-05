@@ -11,7 +11,7 @@
 </p>
 
 <!--  🔭 I’m currently working on ... -->
- 🌱 Nothing <br>
+ 🌱  Currently Working on my Data Structure Project <br>
   💬 Ask me about Football <br>
   📫 How to reach me: <a href="https://www.linkedin.com/in/fathan-askar-031307259/">Linkedln</a><br>
   😄 Pronouns: He/Him <br>
