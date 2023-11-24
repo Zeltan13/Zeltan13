@@ -22,7 +22,6 @@
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zeltan13&show_icons=true&locale=en&layout=compact" alt="Zeltan13" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeltan13&" alt="Zeltan13" /></p>
  </details>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeltan13&" alt="Zeltan13" /></p>
  <h4> Fathan Askar's Basic skills </h4>
 
 1. Can speak English fluently
