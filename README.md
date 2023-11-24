@@ -19,9 +19,11 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeltan13&layout=compact)](https://github.com/zeltan13/github-readme-stats)
+<!--     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ukinon&show_icons=true&locale=en&layout=compact" alt="ukinon" /></p>
     <img alt="Fathan Askar github. stats" src="https://github-readme-stats.vercel.app/api/?username=Zeltan13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
-   <img alt="Fathan Askar github. Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeltan13&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+   <img alt="Fathan Askar github. Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeltan13&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/> -->
  </details>
  
  <h4> Fathan Askar's Basic skills </h4>
