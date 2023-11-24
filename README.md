@@ -24,7 +24,7 @@
 
    <img alt="Fathan Askar github. Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeltan13&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>  -->
  </details>
- 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeltan13&" alt="Zeltan13" /></p>
  <h4> Fathan Askar's Basic skills </h4>
 
 1. Can speak English fluently
