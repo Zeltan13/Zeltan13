@@ -25,8 +25,23 @@
  <h4> Fathan Askar's Basic skills </h4>
 
 1. Able to speak English fluently
-2. Able to use Python, Golang, C++, Java, , SQL
+2. Able to use Python, Laravel, Java, SQL, C++, Golang
 3. Teamwork
 4. Communication
 5. Time Management
 6. Disciplinarian 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username={Zeltan13})
+![Trophy](https://github-profile-trophy.vercel.app/?username={Zeltan13})
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username={Zeltan13})
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={Zeltan13}&layout=compact)
+
+## Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username={Zeltan13})
+
+## Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username={Zeltan13})
+
