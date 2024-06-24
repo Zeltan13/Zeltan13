@@ -37,7 +37,4 @@
 
 ## Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Zeltan13)
-
-## Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Zeltan13)
-
+\
