@@ -31,8 +31,6 @@
 5. Time Management
 6. Disciplinarian 
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Zeltan13)
-
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeltan13&layout=compact)
